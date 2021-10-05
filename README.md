@@ -1,2 +1,2 @@
 # replace
-A python script to open a file and replace one character for another
+A python script to open a file and replace one character for another in every line
