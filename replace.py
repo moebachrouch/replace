@@ -1,4 +1,4 @@
-# Program to replace bullet points with tabs in a text file
+# Program to replace a key by a new character in a text file
 
 fin = open("accounts.txt", "r", encoding="utf8")
 fout = open("accounts-file.txt", "w+", encoding="utf-8")
